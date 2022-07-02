@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gnome-keyring-unlock
+Upstream-Contact: Håvard Moen <post@haavard.name>
+Source: https://github.com/umglurf/gnome-keyring-unlock
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
